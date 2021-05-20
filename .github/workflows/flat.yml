@@ -17,5 +17,5 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
-          http_url: 'https://docs.google.com/spreadsheets/d/1geMMiWZbF9pF3dhOZ7ixX5xa0LvWWeWLhZe_Nn6adiU/edit?usp=sharing' 
-          downloaded_filename: google-sheet.json
+          http_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRq2h-z2nr3R6HdpCfV7kPvLbJQqXELptnIC8v5r4cISNouwYgz49WAX07M6agyQZlIDRZAEjbDQt6z/pub?gid=0&single=true&output=csv' 
+          downloaded_filename: google-sheet.csv
