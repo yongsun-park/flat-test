@@ -18,4 +18,4 @@ jobs:
         uses: githubocto/flat@v2
         with:
           http_url: 'https://docs.google.com/spreadsheets/d/1geMMiWZbF9pF3dhOZ7ixX5xa0LvWWeWLhZe_Nn6adiU/edit?usp=sharing' 
-          downloaded_filename: google-sheet.xml
+          downloaded_filename: google-sheet.json
